@@ -1,7 +1,7 @@
 function authenticate(){
 	var uname = document.querySelector("#username").value;
 	var pass = document.querySelector("#password").value;
-	if(uname== "piya"&& pass=="18-09-2007")
+	if(uname== "saurav"&& pass=="12345")
   	{
   	    window.location.href="start.html";
   	}
